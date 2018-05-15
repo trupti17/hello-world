@@ -1,4 +1,4 @@
 # hello-world
 
 Hi All!
-This is Trupti here. I am new here. 
+My name is Trupti and I am new here. I am looking forward to collaborate and learn programming.
